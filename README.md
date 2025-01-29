@@ -2,6 +2,10 @@
 
 [Reqres API](https://reqres.in) is a popular test API that provides dummy data for developers to test their applications without using real data. It is possible to execute various HTTP requests (GET, POST, PUT, DELETE, etc.) and receive responses in JSON format.
 
+My colleagues and I worked together on this project. Our collaborative project can be seen [here](https://github.com/RomanBurlaka78/ReqresForwardApi).
+
+My tests can be found in this repository.
+
 ## Test Scenarios
 
 The table below outlines the test cases, including the endpoint, test type (positive/negative), description, expected behavior, and assertions.
